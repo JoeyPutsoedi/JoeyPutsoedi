@@ -28,9 +28,13 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 
 ###
 
+<p>
+
 ### My Stats:
 
-<p align="center"> 
+</p>
+<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=JoeyPutsoedi&show_icons=true&theme=radical" alt="Joey's GitHub Stats" /> 
 </p>
 
