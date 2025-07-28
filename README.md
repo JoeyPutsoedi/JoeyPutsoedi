@@ -9,7 +9,8 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 </p>
 
 <h3>Languages and tools</h3>
-<p style="margin-bottom: 50px">
+<p align="center" >
+
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -26,22 +27,8 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </p><br><br>
 
-<p align="center">
+### Stats
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoeyPutsoedi&show_icons=true&theme=radical" alt="Joey's GitHub Stats" /> 
 </p>
-
-<!--
-**JoeyPutsoedi/JoeyPutsoedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
