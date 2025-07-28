@@ -30,7 +30,7 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 
 <p>
 
-### My Stats:
+### Stats:
 
 </p>
 <p align="center">
