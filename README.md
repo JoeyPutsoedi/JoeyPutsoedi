@@ -27,6 +27,8 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </p><br><br>
 
+##
+
 ### Stats
 
 <p align="center">
