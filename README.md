@@ -10,6 +10,8 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 
 <h3>Languages and tools</h3>
 
+###
+
 <p align="center" >
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
@@ -25,7 +27,10 @@ Welcome! I'm an individual who's primary interests are creation and innovation. 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 <img align="left" alt="Javascript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-</p><br>
+</p><br><br><br>
+
+#
+
 <h3>Stats:<h3>
 
 <p align="center">
